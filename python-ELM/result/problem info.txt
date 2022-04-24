@@ -1,0 +1,2 @@
+{'name': 'KLM_GA', 'M': 1, 'maxormins': array([-1]), 'Dim': 1, 'varTypes': array([1]), 'lb': array([100]), 'ub': array([500]), 'borders': array([[1],
+       [1]])}
